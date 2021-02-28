@@ -24,10 +24,10 @@
     </div>
 </template>
 <script>
-import PDFJS from 'assets/js/pdf.min.js'
+import PDFJS from './assets/js/pdf.min.js'
 import Swiper from 'swiper'
 import 'swiper/dist/css/swiper.min.css'
-import 'assets/css/pdf.scss'
+import './assets/css/pdf.scss'
 
 export default {
     props: {
